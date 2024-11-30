@@ -1,16 +1,18 @@
 // Function.
-import { areBigInt } from '../lib/are-bigint.func';
-import { areBoolean } from '../lib/are-boolean.func';
-import { areDate } from '../lib/are-date.func';
-import { areDefined } from '../lib/are-defined.func';
-import { areFalse } from '../lib/are-false.func';
-import { areNull } from '../lib/are-null.func';
-import { areNumber } from '../lib/are-number.func';
-import { areRegExp } from '../lib/are-regexp.func';
-import { areString } from '../lib/are-string.func';
-import { areSymbol } from '../lib/are-symbol.func';
-import { areTrue } from '../lib/are-true.func';
-import { areUndefined } from '../lib/are-undefined.func';
+import {
+  areBigInt,
+  areBoolean,
+  areDate,
+  areDefined,
+  areFalse,
+  areNull,
+  areNumber,
+  areRegExp,
+  areString,
+  areSymbol,
+  areTrue,
+  areUndefined,
+} from '../lib';
 /**
  * Represents the shape of an object that contains  `are` prefixed functions.
  */

@@ -57,18 +57,18 @@ export {
 
 ## Validate
 
--[x] BigInt
--[x] Boolean
--[x] Date
--[x] Defined
--[x] False
--[x] Null
--[x] Number
--[x] RegExp
--[x] String
--[x] Symbol
--[x] True
--[x] Undefined
+- [x] BigInt
+- [x] Boolean
+- [x] Date
+- [x] Defined
+- [x] False
+- [x] Null
+- [x] Number
+- [x] RegExp
+- [x] String
+- [x] Symbol
+- [x] True
+- [x] Undefined
 
 ## GIT
 

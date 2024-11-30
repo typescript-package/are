@@ -55,6 +55,21 @@ export {
 } from '@typescript-package/are';
 ```
 
+## Validate
+
+-[x] BigInt
+-[x] Boolean
+-[x] Date
+-[x] Defined
+-[x] False
+-[x] Null
+-[x] Number
+-[x] RegExp
+-[x] String
+-[x] Symbol
+-[x] True
+-[x] Undefined
+
 ## GIT
 
 ### Commit
